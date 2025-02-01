@@ -1,0 +1,35 @@
+
+/*.n {
+background-color: #5a7688 !important;
+color: blue !important;
+} */
+
+.bod {
+  padding: 10px;
+}
+
+body {
+  background-color: #e6e6e6;
+  height: 300vh; /* Set a large height for body */
+  position: relative;
+}
+
+footer {
+
+  
+  background-color: #343a40;
+  color: rgb(255, 255, 255);
+  
+  position: absolute;
+
+  bottom: 0%;
+  left: 0%;
+  right: 0%;
+  padding-top: 20px;
+
+  height: 400px;
+
+
+
+
+}
